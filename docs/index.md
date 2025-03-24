@@ -1,13 +1,7 @@
 ---
 title: 首页
 ---
-
-<style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style>
+#
 
 ![](./imgs/geocaching.svg)
 
