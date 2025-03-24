@@ -1,0 +1,37 @@
+site_name: GeoGuide in China
+site_url: https://geoguide.top/
+theme:
+  name: material
+  language: zh
+  # features:
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      # scheme: youtube
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      # scheme: youtube
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+# nav:
+#   - index.md
+#   - index2.md
+# extra_css:
+#   - stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
