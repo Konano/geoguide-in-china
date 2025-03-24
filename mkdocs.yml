@@ -1,8 +1,12 @@
 site_name: GeoGuide in China
 site_url: https://www.geoguide.top/
+repo_url: https://github.com/Konano/geoguide-in-china
+repo_name: Geoguide in China
 theme:
   name: material
   language: zh
+  icon:
+    repo: fontawesome/brands/github
   # features:
   #   - navigation.tabs
   #   - navigation.tabs.sticky
