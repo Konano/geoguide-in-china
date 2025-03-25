@@ -19,7 +19,10 @@
     - 官方 APP 中的 Google 地图/卫星视图显示位置并不准确
     - 直接在国内地图 APP（例如高德地图、百度地图等）使用 GPS 坐标可能会产生定位偏差
 
-    [延伸阅读（维基百科）](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China)
+    延伸阅读：
+    
+    - [维基百科：GCJ-02 坐标系](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#%E5%9D%90%E6%A0%87%E7%B3%BB%E5%AE%9E%E7%8E%B0)
+    - [简书：WGS84、GCJ-02、BD-09 都是什么？](https://www.jianshu.com/p/559029832a67) [(Internet Archive)](https://web.archive.org/web/20250325135750/https://www.jianshu.com/p/559029832a67)
 
 ## 选择一个藏宝点
 有三种主要方式可以查找附近的藏宝点：
