@@ -6,10 +6,14 @@
 
 ## 下载 Geocaching 应用
 
-为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。国内玩家请直接使用第三方应用，官方 APP 因功能限制和地图偏移问题在国内并不实用。
+为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。**国内玩家请直接使用第三方应用**，官方 APP 因功能限制和地图偏移问题在国内并不实用。
 
 - iPhone 用户：推荐安装 [Looking4Cache Pro](https://mp.weixin.qq.com/s/JO5_Y-fmGaEYQ1aNeiE1ww)
-- Android 用户：推荐安装 [c:geo](https://mp.weixin.qq.com/s/zJdaSdnUrC38fKnkKo4UrQ)，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包，安装后务必将地图源设置成 OpenStreetMap
+    - 安装后将地图源设置成 Open Topo Map
+    - 如果有科学上网的条件，推荐设置成 OpenStreetMap (Mapnik)
+- Android 用户：推荐安装 [c:geo](https://mp.weixin.qq.com/s/zJdaSdnUrC38fKnkKo4UrQ)，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包
+    - 安装后将地图源设置成 OpenStreetMap.de
+    - 如果有科学上网的条件，推荐设置成 OpenStreetMap.org
 
 这些应用会帮助你定位藏宝点，并提供详细的线索和提示。
 
@@ -28,7 +32,7 @@
 有三种主要方式可以查找附近的藏宝点：
 
 - 第一种是通过网站条件搜索：在 [Geocaching 官网](https://www.geocaching.com/live/play/map) 输入坐标查询，注册后可在个人信息页直接搜索所在地附近的藏点。
-- 第二种是地图查询，访问 [Geocaching 地图页面](http://www.geocaching.com/map)，缩放和移动地图到你所在位置后点击藏点图标查看详细信息。
+- 第二种是地图查询，访问 [Geocaching 地图页面](http://www.geocaching.com/map)，缩放和移动地图到你所在位置后点击藏点图标查看详细信息（官网的默认地图并不存在坐标偏移问题）。
 - 第三种是通过手机应用查询，打开应用后会自动显示附近藏点。
 
 每个藏宝点都有难度等级、藏宝大小、藏宝类型等信息，你可以根据自己的兴趣和能力选择一个合适的藏宝点。
@@ -46,3 +50,7 @@
 ## 记录你的发现
 
 回到家后，别忘了在应用或网站上记录你的发现。你可以写下你的寻宝经历、上传精彩照片，与其他藏友分享你的寻宝故事。
+
+## 其他参考教程
+
+- [知乎 - 写给对 Geocaching 感兴趣的新玩家](https://zhuanlan.zhihu.com/p/638003725)
