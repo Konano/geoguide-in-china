@@ -37,6 +37,8 @@
 
 每个藏宝点都有难度等级、藏宝大小、藏宝类型等信息，你可以根据自己的兴趣和能力选择一个合适的藏宝点。
 
+由于国内玩家数量
+
 ## 出发寻宝
 
 根据经纬度坐标和提示，前往藏宝点。记得带上手机以及一支笔（用来在日志本上签名）。
@@ -54,3 +56,7 @@
 ## 其他参考教程
 
 - [知乎 - 写给对 Geocaching 感兴趣的新玩家](https://zhuanlan.zhihu.com/p/638003725)
+- [Geocaching.cn - 地理藏宝知识文档汇总](https://www.geocaching.cn/courses/)
+
+!!! tip
+    如果你在教程中发现了错误，或者遇到了教程中未提及的问题，你可以前往 [GitHub Issue](https://github.com/Konano/geoguide-in-china/issues) 提出问题，或者 QQ 群问问群友：953993089
