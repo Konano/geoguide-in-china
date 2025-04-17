@@ -11,7 +11,8 @@
 - iPhone 用户：推荐安装 [Looking4Cache Pro](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
     - 安装后将地图源设置成 Open Topo Map
     - 如果有科学上网的条件，推荐设置成 OpenStreetMap (Mapnik)
-- Android 用户：推荐安装 [c:geo](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包
+- Android 用户：推荐安装 **c:geo**，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包
+    - 这里有两个安装和使用教程，建议阅读：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)
     - 安装后将地图源设置成 OpenStreetMap.de
     - 如果有科学上网的条件，推荐设置成 OpenStreetMap.org
 
