@@ -26,7 +26,7 @@
 
     延伸阅读：
     
-    - [维基百科：GCJ-02 坐标系](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#%E5%9D%90%E6%A0%87%E7%B3%BB%E5%AE%9E%E7%8E%B0)
+    - [维基百科：GCJ-02 坐标系](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#%E5%9D%90%E6%A0%87%E7%B3%BB%E5%AE%9E%E7%8E%B0)（需科学上网）
     - [简书：WGS84、GCJ-02、BD-09 都是什么？](https://www.jianshu.com/p/559029832a67) [(Internet Archive)](https://web.archive.org/web/20250325135750/https://www.jianshu.com/p/559029832a67)
 
 ## 选择一个藏宝点
@@ -81,10 +81,10 @@
 
 作为新手，你遇到的困难和解决方法对其他新人来说都是宝贵的经验，不妨在日志中分享你的心得体会，这样其他新手玩家就能从中受益。
 
-## 其他参考教程
+## 其他教程
 
-- [知乎 - 写给对 Geocaching 感兴趣的新玩家](https://zhuanlan.zhihu.com/p/638003725)
 - [Geocaching.cn - 地理藏宝知识文档汇总](https://www.geocaching.cn/courses/)
+- [知乎 - 写给对 Geocaching 感兴趣的新玩家](https://zhuanlan.zhihu.com/p/638003725)
 
 !!! tip
     如果你在教程中发现了错误，或者遇到了教程中未提及的问题，你可以前往 [GitHub Issue](https://github.com/Konano/geoguide-in-china/issues) 提出问题，或者 QQ 群问问群友：953993089
