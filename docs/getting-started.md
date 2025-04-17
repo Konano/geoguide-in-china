@@ -83,8 +83,10 @@
 
 ## 其他教程
 
-- [Geocaching.cn - 地理藏宝知识文档汇总](https://www.geocaching.cn/courses/)
+- [Geocaching.cn - 地理藏宝知识文档汇总](https://www.geocaching.cn/courses/)：一个进阶向的教程，介绍了更多 Geocaching 相关的知识和技巧，包括如何制作自己的藏宝点、介绍特殊类型的藏宝点等
 - [知乎 - 写给对 Geocaching 感兴趣的新玩家](https://zhuanlan.zhihu.com/p/638003725)
 
 !!! tip
-    如果你在教程中发现了错误，或者遇到了教程中未提及的问题，你可以前往 [GitHub Issue](https://github.com/Konano/geoguide-in-china/issues) 提出问题，或者 QQ 群问问群友：953993089
+    如果你在教程中发现了错误，或者遇到了教程中未提及的问题，你可以前往 [GitHub](https://github.com/Konano/geoguide-in-china/issues) 提出疑问，或者 QQ 群问问群友：953993089
+
+    本新手教程也正在制作中，欢迎来 [GitHub](https://github.com/Konano/geoguide-in-china) 一起完善和补充！
