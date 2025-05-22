@@ -9,12 +9,12 @@
 为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。**国内玩家请直接使用第三方应用**，官方 APP 因功能限制和地图偏移问题在国内并不实用。
 
 - iPhone 用户：推荐安装 [Looking4Cache Pro](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
-    - 安装后将地图源设置成 Open Topo Map
-    - 如果有科学上网的条件，推荐设置成 OpenStreetMap (Mapnik)
+    - 安装后将地图源设置成 `Open Topo Map`
+    - 如果有科学上网的条件，推荐设置成 `OpenStreetMap (Mapnik)`
 - Android 用户：推荐安装 **c:geo**，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包
     - 推荐阅读的使用教程：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)
-    - 安装后将地图源设置成 OpenStreetMap.de
-    - 如果有科学上网的条件，推荐设置成 OpenStreetMap.org
+    - 安装后将地图源设置成 `OpenStreetMap.de`
+    - 如果有科学上网的条件，推荐设置成 `OpenStreetMap.org`
 
 这些应用会帮助你定位藏宝点，并提供详细的线索和提示。
 
@@ -28,6 +28,9 @@
     
     - [维基百科：GCJ-02 坐标系](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#%E5%9D%90%E6%A0%87%E7%B3%BB%E5%AE%9E%E7%8E%B0)（需科学上网）
     - [简书：WGS84、GCJ-02、BD-09 都是什么？](https://www.jianshu.com/p/559029832a67) [(Internet Archive)](https://web.archive.org/web/20250325135750/https://www.jianshu.com/p/559029832a67)
+
+!!! note
+    实际上，如果你是尊贵的 Geocaching Premium 会员，使用官方 APP 也可以浏览无偏移的地图，只需要将图层切换到 Trails 即可。
 
 ## 选择一个藏宝点
 有三种主要方式可以查找附近的藏宝点：
