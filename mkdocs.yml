@@ -36,7 +36,7 @@ theme:
 nav:
   - index.md
   - getting-started.md
-  # - hiding-a-cache.md
+  - hiding-a-cache.md
   # - faq.md
 # extra_css:
 #   - stylesheets/extra.css
