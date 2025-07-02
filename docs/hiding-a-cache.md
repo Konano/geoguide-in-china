@@ -4,6 +4,8 @@
 
 当前中国大陆地区的审核志愿者为 Melos，她同时也是负责台湾地区藏宝点审核的志愿者。
 
+藏宝的提交入口：https://www.geocaching.com/play/hide
+
 ## 相关资源
 
 - [如何隐藏一个新的藏宝点](https://www.geocaching.com/help/index.php?pg=kb.book&id=19)：Geocaching.com 官方详细教程
