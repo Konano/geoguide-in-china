@@ -25,7 +25,7 @@
 
 ## 下载 Geocaching 应用
 
-为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。**国内玩家请直接使用第三方应用**，官方 APP 因功能限制和地图偏移问题在国内并不实用。
+为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。<span style="color:red">**国内玩家请直接使用第三方应用**</span>，官方 APP 因功能限制和地图偏移问题在国内并不实用。
 
 - iPhone 用户：推荐安装 [Looking4Cache Pro](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)（注意不是 Looking4Cache，Pro 也是免费的）
     - 安装后将地图源设置成 `Open Topo Map`
