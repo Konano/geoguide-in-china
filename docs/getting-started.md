@@ -4,6 +4,19 @@
 
 首先，你需要在 [Geocaching](https://www.geocaching.com/) 平台上注册一个免费账号。对于新手，建议先注册普通会员账号，基础功能已足够使用，不必急于付费升级为高级会员。
 
+??? warning "如果在注册过程中遇到 "Please solve the CAPTCHA" 的问题……"
+    <div align="center">
+        ![CAPTCHA 失败截图](./imgs/captcha_failed.png)
+    </div>
+
+    这是因为 Geocaching 的注册系统使用了 Google 的 reCAPTCHA 验证服务，而该服务在中国大陆有时无法正常使用。
+    
+    你可以尝试以下方法解决：
+
+    - **使用 VPN**：如果你有科学上网的条件，可以尝试开启 VPN，然后重新访问注册页面。
+    - **切换网络环境**：切换网络（例如从 Wi-Fi 换成移动蜂窝数据）有时也能解决问题。
+    - <del>实在不行，还可以找有条件的人帮忙注册。</del>
+
 ## 下载 Geocaching 应用
 
 为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。**国内玩家请直接使用第三方应用**，官方 APP 因功能限制和地图偏移问题在国内并不实用。
