@@ -4,7 +4,7 @@
 
 首先，你需要在 [Geocaching](https://www.geocaching.com/account/join) 平台上注册一个免费账号。对于新手，建议先注册普通会员账号，基础功能已足够使用，不必急于付费升级为高级会员。
 
-??? warning "如果在注册过程中遇到 "Please solve the CAPTCHA" 的问题……"
+??? info "如果在注册过程中遇到 "Please solve the CAPTCHA" 的问题，导致无法注册，怎么办？"
     <div align="center">
         ![CAPTCHA 失败界面](./imgs/captcha_failed.png)
     </div>
@@ -51,6 +51,16 @@
 
 !!! note
     实际上，如果你是尊贵的 Geocaching Premium 会员，使用官方 APP 也可以浏览无偏移的地图，只需要将图层切换到 Trails 即可。
+
+### 使用 c:geo 可能遇到的各种问题
+
+??? info "我注册时是通过第三方渠道登录的，但 c:geo 只能通过账号和密码登录，怎么办？"
+    这是因为 c:geo 目前只支持账号密码登录方式，而不支持第三方登录（如 Google、Apple 等）。
+
+    如果你注册时是通过第三方渠道登录的，则需要登录官网后 [重置密码](https://www.geocaching.com/account/settings/changepassword)，在修改密码时 Current password 留空即可。
+    （注：重置密码并不影响你后面继续通过第三方渠道登录）
+
+    修改完成后，你就可以用新的密码登录 c:geo 了。
 
 ## 选择一个藏宝点
 有三种主要方式可以查找附近的藏宝点：
