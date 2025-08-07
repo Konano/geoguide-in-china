@@ -2,11 +2,11 @@
 
 ## 注册一个账号
 
-首先，你需要在 [Geocaching](https://www.geocaching.com/) 平台上注册一个免费账号。对于新手，建议先注册普通会员账号，基础功能已足够使用，不必急于付费升级为高级会员。
+首先，你需要在 [Geocaching](https://www.geocaching.com/account/join) 平台上注册一个免费账号。对于新手，建议先注册普通会员账号，基础功能已足够使用，不必急于付费升级为高级会员。
 
 ??? warning "如果在注册过程中遇到 "Please solve the CAPTCHA" 的问题……"
     <div align="center">
-        ![CAPTCHA 失败截图](./imgs/captcha_failed.png)
+        ![CAPTCHA 失败界面](./imgs/captcha_failed.png)
     </div>
 
     这是因为 Geocaching 的注册系统使用了 Google 的 reCAPTCHA 验证服务，而该服务在中国大陆有时无法正常使用。
@@ -16,6 +16,12 @@
     - **使用 VPN**：如果你有科学上网的条件，可以尝试开启 VPN，然后重新访问注册页面。
     - **切换网络环境**：切换网络（例如从 Wi-Fi 换成移动蜂窝数据）有时也能解决问题。
     - <del>实在不行，还可以找有条件的人帮忙注册。</del>
+
+    如果你能看到下方完整的注册表格和验证码，说明问题已经解决了！
+
+    <div align="center">
+        ![CAPTCHA 成功界面](./imgs/captcha_success.png)
+    </div>
 
 ## 下载 Geocaching 应用
 
@@ -96,6 +102,18 @@
 要是发现容器有损坏或需要维护，可以在日志里特别说明，或者直接联系藏宝主人（CO）告知具体情况，这样他们就能及时修复。
 
 作为新手，你遇到的困难和解决方法对其他新人来说都是宝贵的经验，不妨在日志中分享你的心得体会，这样其他新手玩家就能从中受益。
+
+## 黑话
+
+在寻宝过程中可能还会遇到一些 Geocaching 特有的术语和缩写，以下是一些常见的黑话：
+
+- **Cache**：藏宝点或容器本身
+- **CO**：Cache Owner，藏宝点的拥有者或创建者
+- **DNF**：Did Not Find，表示未找到藏宝点
+- **FTF**：First To Find，表示第一个找到该藏宝点的人
+- **TFTC**：Thanks For The Cache，表示感谢藏宝者提供的藏宝点
+- **Spoiler**：剧透，指提供的线索或提示，帮助找到藏宝点
+- **TB**：Travel Bug，旅行虫，一种可以在多个藏宝点之间移动的物品，通常带有追踪代码
 
 ## 其他教程
 
