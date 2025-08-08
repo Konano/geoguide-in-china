@@ -24,17 +24,25 @@
         ![CAPTCHA 成功界面](./imgs/captcha_success.png)
     </div>
 
-## 下载 Geocaching 应用
+## 前往官网搜索宝藏
 
-为了方便寻找藏宝点，你可以下载一个 Geocaching 应用。<span style="color:red">**国内玩家请直接使用第三方应用**</span>，官方 APP 因功能限制和地图偏移问题在国内并不实用。
+注册成功后，在手机的浏览器上登录 Geocaching 官网，并访问 [Geocaching 地图页面](https://www.geocaching.com/play/map)，缩放和移动地图到你所在位置后就可以看到附近的藏宝点（官网的默认地图并不存在坐标偏移问题）。
+点击藏点图标可以查看藏点的详细信息。
 
-- iPhone 用户：推荐安装 [Looking4Cache Pro](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)（注意不是 Looking4Cache，Pro 也是免费的）
+**相比下面提到的用手机应用找宝，这种方式更加简单且易用，且坑的部分相对来说也少得多，所以更加推荐新手使用这种方式开始第一次寻宝。**
+
+## 下载手机应用（可选）
+
+为了方便寻找藏宝点，你也可以下载一个 Geocaching 应用。<span style="color:red">**国内玩家请直接使用第三方应用**</span>，官方 APP 因功能限制和地图偏移问题在国内并不实用。
+
+- iPhone 用户：推荐安装 [Looking4Cache Pro](https://apps.apple.com/cn/app/looking4cache-pro/id532870466)（注意不是 Looking4Cache，Pro 也是免费的）
     - 安装后将地图源设置成 `Open Topo Map`
     - 如果有科学上网的条件，推荐设置成 `OpenStreetMap (Mapnik)`
+    - 由北京宝友 magic_snake 写的 [L4C 使用指南](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
 - Android 用户：推荐安装 **c:geo**，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包
-    - 推荐阅读的使用教程：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)
     - 安装后将地图源设置成 `OpenStreetMap.de`
     - 如果有科学上网的条件，推荐设置成 `OpenStreetMap.org`
+    - 推荐阅读的使用教程：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)
 
 这些应用会帮助你定位藏宝点，并提供详细的线索和提示。
 
@@ -63,11 +71,6 @@
     修改完成后，你就可以用新的密码登录 c:geo 了。
 
 ## 选择一个藏宝点
-有三种主要方式可以查找附近的藏宝点：
-
-- 第一种是通过手机应用查询，打开应用后会自动显示附近藏点。
-- 第二种是地图查询，访问 [Geocaching 地图页面](http://www.geocaching.com/map)，缩放和移动地图到你所在位置后点击藏点图标查看详细信息（官网的默认地图并不存在坐标偏移问题）。
-- 第三种是通过网站条件搜索：在 [Geocaching 官网](https://www.geocaching.com/live/play/map) 输入坐标查询，注册后可在个人信息页直接搜索所在地附近的藏点。
 
 每个藏宝点都有难度等级、藏宝大小、藏宝类型等信息，你可以根据自己的兴趣和能力选择一个合适的藏宝点，新手建议从低难度的藏点开始尝试。
 
