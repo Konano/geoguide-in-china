@@ -65,7 +65,7 @@
 ??? info "我注册时是通过第三方渠道登录的，但 c:geo 只能通过账号和密码登录，怎么办？"
     这是因为 c:geo 目前只支持账号密码登录方式，而不支持第三方登录（如 Google、Apple 等）。
 
-    如果你注册时是通过第三方渠道登录的，则需要通过官网的 [忘记密码](https://www.geocaching.com/account/signin/requestpassword) 功能，设置一个新的密码。
+    如果你注册时是通过第三方渠道登录的，则需要退出登录后，通过官网的 [忘记密码](https://www.geocaching.com/account/signin/requestpassword) 功能，设置一个新的密码。
     （注：设置密码并不影响你之后继续通过第三方渠道登录）
 
     密码设置完成后，你就可以用新的密码登录 c:geo 了。
