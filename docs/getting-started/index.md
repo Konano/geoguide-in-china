@@ -6,7 +6,7 @@
 
 注册完成后，你的邮箱会收到验证邮件，点击其中的验证链接即可完成验证并可正常使用账号。
 
-??? note "一般情况下，注册页面如下"
+??? note "正常的注册页面如下图所示："
 
     <figure markdown="span">
         ![正常的注册页面](./imgs/geocaching-sign-up.jpg){ width="60%" }
