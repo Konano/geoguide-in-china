@@ -55,3 +55,5 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - toc:
       permalink: true
+plugins:
+  - glightbox
