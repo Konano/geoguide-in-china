@@ -2,47 +2,56 @@
 
 ## 注册一个账号
 
-首先，你需要在 [Geocaching](https://www.geocaching.com/account/join) 平台上注册一个免费账号。对于新手，建议先注册普通会员账号，基础功能已足够使用，不必急于付费升级为高级会员。
+首先，在 [Geocaching](https://www.geocaching.com/account/join) 上注册一个免费账号即可。对新手来说，普通会员的基础功能已经足够使用，建议先体验一段时间，再决定是否付费升级高级会员。
 
-??? info "如果在注册过程中遇到 "Please solve the CAPTCHA" 的问题，导致无法注册，怎么办？"
-    <div align="center">
-        ![CAPTCHA 失败界面](./imgs/captcha_failed.png)
-    </div>
+注册成功后，邮箱会收到一封验证邮件，点击邮件中的链接完成邮箱验证后就可以正常使用账号了。
 
-    这是因为 Geocaching 的注册系统使用了 Google 的 reCAPTCHA 验证服务，而该服务在中国大陆有时无法正常使用。
-    
-    你可以尝试以下方法解决：
+??? note "一般情况下，你看到的注册页面会是这样的："
 
-    - **通过第三方登录**：如果你有 Google/Apple 账号，可以尝试使用 Google 或 Apple 账号直接登录注册。
-    - **使用 VPN**：如果你有科学上网的条件，可以尝试开启 VPN，然后重新访问注册页面。
-    - **切换网络环境**：切换网络（例如从 Wi-Fi 换成移动蜂窝数据）有时也能解决问题。
-    - <del>实在不行，还可以找有条件的人帮忙注册。</del>
+    <figure markdown="span">
+        ![正常的注册页面](./imgs/geocaching-sign-up.jpg){ width="60%" }
+        <figcaption></figcaption>
+    </figure>
 
-    如果你能看到下方完整的注册表格和验证码，说明问题已经解决了！
+??? info "我的注册页面和正常的不一样，怎么办？"
 
-    <div align="center">
-        ![CAPTCHA 成功界面](./imgs/captcha_success.png)
-    </div>
+    如果你发现注册页面样式异常、表单不完整（例如看不到用户名/密码输入框）、**Sign Up** 按钮一直是灰色不可点击，或提示 **“Please solve the CAPTCHA”**，通常是因为页面需要加载一些文件资源，但在某些网络环境下加载失败或不完整导致的。
+
+    你可以按下面方式依次尝试：
+
+    - **使用第三方账号登录/注册**：如果你有 Google / Apple 账号，可直接用它们注册或登录。
+    - **使用 VPN**：如具备科学上网条件，开启 VPN 后刷新页面或重新打开注册链接。
+    - **切换网络环境**：例如从 Wi‑Fi 切换到移动蜂窝数据（或反过来）后重试。
+    - <del>实在不行，可以请有条件的朋友代为协助注册。</del>
+
+    当你能看到完整的注册表单，并且验证码正常出现并完成加载时，通常就可以继续注册了。
+
+![Geocaching 地图页面截图](./imgs/geocaching-mobile.jpg){ width="40%" align=right }
 
 ## 前往官网搜索宝藏
 
-注册成功后，在手机的浏览器上登录 Geocaching 官网，并访问 [Geocaching 地图页面](https://www.geocaching.com/play/map)，缩放和移动地图到你所在位置后就可以看到附近的藏宝点（官网的默认地图并不存在坐标偏移问题）。
-点击藏点图标可以查看藏点的详细信息。
+注册成功后，在手机的浏览器上打开 Geocaching 官网并登录，登录成功后访问 [Geocaching 地图页面](https://www.geocaching.com/play/map)，缩放和移动地图到你所在位置后就可以看到附近的藏宝点（官网的默认地图并不存在偏移的问题）。
 
-**相比下面提到的用手机应用找宝，这种方式更加简单且易用，且坑的部分相对来说也少得多，所以更加推荐新手使用这种方式开始第一次寻宝。**
+点击地图上的藏点图标，可以查看该藏点的详细信息。
+
+**相比使用手机 App 寻宝，直接通过官网地图上手更直观、步骤更少、踩坑也相对更少，因此更推荐新手用这种方式完成第一次寻宝。**
 
 ## 下载手机应用（可选）
 
 为了方便寻找藏宝点，你也可以下载一个 Geocaching 应用。<span style="color:red">**国内玩家请直接使用第三方应用**</span>，官方 APP 因功能限制和地图偏移问题在国内并不实用。
 
+!!! note
+    实际上，如果你是尊贵的 Geocaching Premium 高级会员，使用官方 APP 也可以浏览无偏移的地图，只需要将图层切换到 Trails 即可。
+
 - iPhone 用户：推荐安装 [Looking4Cache Pro](https://apps.apple.com/cn/app/looking4cache-pro/id532870466)（注意不是 Looking4Cache，Pro 也是免费的）
     - 安装后将地图源设置成 `Open Topo Map`
     - 如果有科学上网的条件，推荐设置成 `OpenStreetMap (Mapnik)`
     - 由北京宝友 magic_snake 写的 [L4C 使用指南](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
-- Android 用户：推荐安装 **c:geo**，可直接访问 [c:geo 官网](https://www.cgeo.org/) 下载 APK 安装包
+- Android 用户：推荐安装 **c:geo**，可直接访问 [c:geo 官网](https://www.cgeo.org/)，或者下载 [APK 安装包](https://g.nano.ac/https://github.com/cgeo/cgeo/releases/download/market_20260102/cgeo-release_20260102.apk)
     - 安装后将地图源设置成 `OpenStreetMap.de`
     - 如果有科学上网的条件，推荐设置成 `OpenStreetMap.org`
-    - 推荐阅读的使用教程：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)
+    - **具体的配置教程请参考该章节：[c:geo 使用教程](./cgeo.md)**
+    - 其他的使用教程：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)
 
 这些应用会帮助你定位藏宝点，并提供详细的线索和提示。
 
@@ -56,19 +65,6 @@
     
     - [维基百科：GCJ-02 坐标系](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#%E5%9D%90%E6%A0%87%E7%B3%BB%E5%AE%9E%E7%8E%B0)（需科学上网）
     - [简书：WGS84、GCJ-02、BD-09 都是什么？](https://www.jianshu.com/p/559029832a67) [(Internet Archive)](https://web.archive.org/web/20250325135750/https://www.jianshu.com/p/559029832a67)
-
-!!! note
-    实际上，如果你是尊贵的 Geocaching Premium 会员，使用官方 APP 也可以浏览无偏移的地图，只需要将图层切换到 Trails 即可。
-
-### 使用 c:geo 可能遇到的各种问题
-
-??? info "我注册时是通过第三方渠道登录的，但 c:geo 只能通过账号和密码登录，怎么办？"
-    这是因为 c:geo 目前只支持账号密码登录方式，而不支持第三方登录（如 Google、Apple 等）。
-
-    如果你注册时是通过第三方渠道登录的，则需要退出登录后，通过官网的 [忘记密码](https://www.geocaching.com/account/signin/requestpassword) 功能，设置一个新的密码。
-    （注：设置密码并不影响你之后继续通过第三方渠道登录）
-
-    密码设置完成后，你就可以用新的密码登录 c:geo 了。
 
 ## 选择一个藏宝点
 
@@ -119,7 +115,7 @@
 
 ## Geocaching 常用黑话
 
-在寻宝过程中可能还会遇到一些 Geocaching 特有的术语和缩写，以下是一些常见的黑话。亦可以参考[术语表](/glossary)。
+在寻宝过程中可能还会遇到一些 Geocaching 特有的术语和缩写，以下是一些常见的黑话。亦可以参考[术语表](../glossary.md)。
 
 - **Cache**：藏宝点或容器本身
 - **CO**：Cache Owner，藏宝点的拥有者或创建者

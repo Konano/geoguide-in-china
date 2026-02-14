@@ -9,7 +9,7 @@ title: 首页
 
 Geocaching（地理藏宝）是一项结合了户外探险与现代科技的全球性游戏。它利用 GPS 设备或手机定位功能，带领玩家在现实世界中寻找隐藏的「藏宝点」（Cache）。你可以把它想象成一场现实版的「藏宝图」游戏，只不过藏宝图变成了经纬度坐标，而宝藏则是一个小小的容器，里面通常装有写满留言的日志本、各种有趣的小物件，有时还会有其他玩家留下的纪念品。
 
-[对于 Geocaching 新玩家：如何开始 Geocaching](getting-started.md)
+[对于 Geocaching 新玩家：如何开始 Geocaching](./getting-started/index.md)
 
 ### **Geocaching ≠ 寻宝**
 

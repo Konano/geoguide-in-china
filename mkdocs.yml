@@ -13,6 +13,7 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.indexes
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -35,7 +36,9 @@ theme:
         name: Switch to system preference
 nav:
   - index.md
-  - getting-started.md
+  - 如何开始 Geocaching:
+    - getting-started/index.md
+    - getting-started/cgeo.md
   - hiding-a-cache.md
   - glossary.md
   # - faq.md
@@ -45,3 +48,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
