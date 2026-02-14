@@ -8,15 +8,15 @@
 
 在设置中依次点击 `服务 (Services)` → `Geocaching.com` → `激活 (Activate)` 进入登录界面，输入 Geocaching 账号和密码后点击登录。
 
-![打开设置](./imgs/cgeo-2.jpg){ width="50%" }
+![点击服务 (Services)](./imgs/cgeo-2.jpg){ width="50%" }
 
-![打开设置](./imgs/cgeo-3.jpg){ width="50%" }
+![点击 Geocaching.com](./imgs/cgeo-3.jpg){ width="50%" }
 
-![打开设置](./imgs/cgeo-4.jpg){ width="50%" }
+![点击激活 (Activate)](./imgs/cgeo-4.jpg){ width="50%" }
 
 当 c:geo 首页出现类似「登录成功」的提示时，说明已经完成登录。
 
-![打开设置](./imgs/cgeo-5.jpg){ width="50%" }
+![登录成功](./imgs/cgeo-5.jpg){ width="50%" }
 
 ## 常见问题 { #cgeo-faq }
 
