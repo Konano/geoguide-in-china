@@ -26,9 +26,9 @@
 
     当完整表单和验证码都正常加载后，一般就能顺利注册。
 
-![Geocaching 地图页面截图](./imgs/geocaching-mobile.jpg){ width="35%" align=right }
-
 ## 第二步：在官网地图上找宝 { #geocaching-mobile-map }
+
+![Geocaching 地图页面截图](./imgs/geocaching-mobile.jpg){ width="35%" align=right }
 
 注册成功后，在手机浏览器打开 Geocaching 官网并登录，然后访问 [Geocaching 地图页面](https://www.geocaching.com/play/map)。缩放和移动地图到你所在位置，即可看到附近的藏宝点（官网默认地图不存在偏移问题）。
 
