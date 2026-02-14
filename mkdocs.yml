@@ -14,6 +14,8 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.indexes
+    # - navigation.tracking
+    - toc.follow
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -51,3 +53,5 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - toc:
+      permalink: true

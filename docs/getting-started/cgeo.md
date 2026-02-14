@@ -1,6 +1,6 @@
-# c:geo 配置指南
+# c:geo 配置指南 { #cgeo-guide }
 
-## 登录到 Geocaching.com
+## 登录到 Geocaching.com { #cgeo-login }
 
 安装后打开 c:geo，将底部导航切换到 `首页 (Home)`。点击右上角的三个点，在下拉菜单中选择 `设置 (Settings)`。
 
@@ -18,7 +18,7 @@
 
 ![打开设置](./imgs/cgeo-5.jpg){ width="40%" }
 
-## 常见问题
+## 常见问题 { #cgeo-faq }
 
 ???+ info "我注册时是通过第三方渠道登录的，但 c:geo 只能通过账号和密码登录，怎么办？"
     这是因为 c:geo 目前只支持账号密码登录方式，而不支持第三方登录（如 Google、Apple 等）。
