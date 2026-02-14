@@ -18,6 +18,16 @@
 
 ![登录成功](./imgs/cgeo-5.jpg){ width="50%" }
 
+## 选择地图源 { #cgeo-map-source }
+
+登录成功后，将底部导航切换到 `地图 (Map)`。点击右上角的「切换地图」的图标，在弹出的地图列表中选择 `OpenStreetMap.de`（如果有科学上网条件，也可以选择 `OpenStreetMap.org`）。
+
+![选择地图源](./imgs/cgeo-map-1.jpg){ width="50%" }
+
+如果能看到下图就说明你成功啦！
+
+![地图页面](./imgs/cgeo-map-2.jpg){ width="50%" }
+
 ## 常见问题 { #cgeo-faq }
 
 ???+ info "我注册时是通过第三方渠道登录的，但 c:geo 只能通过账号和密码登录，怎么办？"
