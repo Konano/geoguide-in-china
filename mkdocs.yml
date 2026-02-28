@@ -42,7 +42,9 @@ nav:
     - getting-started/index.md
     - getting-started/cgeo.md
     - getting-started/tftc.md
-  - hiding-a-cache.md
+  - 创建你的第一个藏宝点:
+    - hiding-a-cache/index.md
+    - hiding-a-cache/simple-container.md
   - glossary.md
   # - faq.md
 # extra_css:
