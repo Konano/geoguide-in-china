@@ -1,4 +1,4 @@
-# c:geo 配置指南 { #cgeo-guide }
+# c:geo 使用指南 { #cgeo-guide }
 
 ## 登录到 Geocaching.com { #cgeo-login }
 

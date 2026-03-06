@@ -1,6 +1,8 @@
-# Looking4Cache (L4C) 使用指南
+# Looking4Cache (L4C) 使用指南 { #l4c-guide }
 
-在 App Store 中搜索 `Looking4Cache`，或使用[本链接](https://apps.apple.com/cn/app/looking4cache-pro/id532870466)以获取该 App。经过一系列条款阅读后，点选 `Add Geocaching User` 登录你的 Geocaching 账号以开始使用。
+## 安装与登录 { #l4c-login }
+
+在 App Store 中搜索 `Looking4Cache`，或使用 [本链接](https://apps.apple.com/cn/app/looking4cache-pro/id532870466) 以获取该 App。经过一系列条款阅读后，点选 `Add Geocaching User` 登录你的 Geocaching 账号以开始使用。
 
 ![App Store 页面截图](./imgs/l4c-1.jpg){ width="50%" }
 
@@ -19,7 +21,7 @@ L4C 的使用逻辑是：先使用**搜索**来获取一定区域或条件的 Ca
 
 由于一开始并未搜索任何 Cache，因此**列表**和**地图**中均无 Cache 展示。
 
-## 搜索 Cache
+## 搜索 Cache { #l4c-search }
 
 点选左上角**搜索**按钮，来到搜索对话框。
 
@@ -52,7 +54,7 @@ L4C 的使用逻辑是：先使用**搜索**来获取一定区域或条件的 Ca
 
 在搜索后，如果有符合条件的 Cache，即会显示在主页面中，通过切换下方的选卡，可以以列表形式或地图形式查看。
 
-## 查看搜索结果
+## 查看搜索结果 { #l4c-search-result }
 
 ![Cache 列表](./imgs/l4c-7.jpg){ width="50%" }
 

@@ -57,11 +57,13 @@
 !!! note
     如果你是 Geocaching Premium 高级会员，官方 APP 也能浏览无偏移的地图，只需将图层切换到 Trails 即可。
 
-- iPhone：推荐 [Looking4Cache Pro](https://apps.apple.com/cn/app/looking4cache-pro/id532870466)（注意不是 Looking4Cache）
+- iPhone：推荐 [Looking4Cache Pro](https://apps.apple.com/cn/app/looking4cache-pro/id532870466)（虽然是 Pro 但是是免费的）
+    - 具体的使用说明见：[L4C 使用指南](./l4c.md)
     - 地图源建议 `Open Topo Map`
     - 有科学上网条件时可设为 `OpenStreetMap (Mapnik)`
-    - 参考：[L4C 使用指南](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
-- Android：推荐 **c:geo**，可访问 [c:geo 官网](https://www.cgeo.org/) 或下载 [APK 安装包](https://g.nano.ac/https://github.com/cgeo/cgeo/releases/download/market_20260102/cgeo-release_20260102.apk)。配置教程见：[c:geo 使用教程](./cgeo.md)
+    - 更多教程：[L4C 使用指南 by magic_snake](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
+- Android：推荐 **c:geo**，可访问 [c:geo 官网](https://www.cgeo.org/) 或下载 [APK 安装包](https://g.nano.ac/https://github.com/cgeo/cgeo/releases/download/market_20260102/cgeo-release_20260102.apk) 进行安装。
+    - 具体的使用说明见：[c:geo 使用指南](./cgeo.md)
     - 地图源建议 `OpenStreetMap.de`
     - 有科学上网条件时可设为 `OpenStreetMap.org`
     - 更多教程：[教程 1](https://www.geocaching.cn/2018/02/c-geo-in-geocaching/)、[教程 2](https://www.geocaching.cn/2023/05/first-cache-basic-cgeo-tutorial/)

@@ -40,9 +40,9 @@ nav:
   - index.md
   - 如何开始 Geocaching:
     - getting-started/index.md
-    - getting-started/cgeo.md
-    - getting-started/tftc.md
-    - getting-started/l4c.md
+    - "c:geo": getting-started/cgeo.md
+    - Looking4Cache (L4C): getting-started/l4c.md
+    - tftc.top: getting-started/tftc.md
   - 创建你的第一个藏宝点:
     - hiding-a-cache/index.md
     - hiding-a-cache/simple-container.md
