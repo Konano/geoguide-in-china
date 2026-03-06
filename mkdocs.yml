@@ -42,6 +42,7 @@ nav:
     - getting-started/index.md
     - getting-started/cgeo.md
     - getting-started/tftc.md
+    - getting-started/l4c.md
   - 创建你的第一个藏宝点:
     - hiding-a-cache/index.md
     - hiding-a-cache/simple-container.md
