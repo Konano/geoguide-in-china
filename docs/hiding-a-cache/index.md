@@ -19,6 +19,7 @@
 
 ## 藏宝前的准备 { #preparation-before-hiding }
 
+*   **准备容器：** 在开始藏宝前，你需要先准备一个合适的藏宝容器。可参考：[如何制作一个简单的容器](./simple-container.md)。
 *   **了解规则：** 在 Geocaching.com 上有一份官方的藏宝者指南，详细介绍了藏宝的基本规则和注意事项：[Geocache 藏宝官方指南](https://www.geocaching.com/play/guidelines)，这也是所有藏宝者必须遵守的核心规则。
 *   **知识自测：** 官方提供了一个简单的测试，帮助你了解基本的藏宝规则和常识：[你能通过藏宝者测试吗？](https://www.geocaching.com/blog/2014/12/can-you-pass-the-geocache-hiders-quiz/) 建议尝试一下。
 *   **积极请教：** 非常建议你在藏宝前，积极寻找有经验的国内玩家（宝友）请教，他们能提供宝贵的建议。
