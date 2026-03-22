@@ -62,7 +62,7 @@
     - 地图源建议 `Open Topo Map`
     - 有科学上网条件时可设为 `OpenStreetMap (Mapnik)`
     - 更多教程：[L4C 使用指南 by magic_snake](https://www.geocaching.cn/2017/12/l4c-an-ios-geocaching-app-by-magic-snake/)
-- Android：推荐 **c:geo**，可访问 [c:geo 官网](https://www.cgeo.org/) 或下载 [APK 安装包](https://g.nano.ac/https://github.com/cgeo/cgeo/releases/download/market_20260102/cgeo-release_20260102.apk) 进行安装。
+- Android：推荐 **c:geo**，可访问 [c:geo 官网](https://www.cgeo.org/) 或下载 [APK 安装包](http://www.freemindworld.com/tmp/cgeo-release_latest.apk) 进行安装。
     - 具体的使用说明见：[c:geo 使用指南](./cgeo.md)
     - 地图源建议 `OpenStreetMap.de`
     - 有科学上网条件时可设为 `OpenStreetMap.org`
