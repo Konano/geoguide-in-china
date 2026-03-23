@@ -41,4 +41,4 @@
 ???+ info "登录失败，提示包含 because of wrong username/password"
     先排除输入错误，确认账号和密码正确。
 
-    若确认无误仍失败，可能是 c:geo 版本过旧，无法兼容当前的 Geocaching 登录接口。可尝试更新 c:geo 到 [最新版本](http://www.freemindworld.com/tmp/cgeo-release_latest.apk)。
+    若确认无误仍失败，可能是 c:geo 版本过旧，无法兼容当前的 Geocaching 登录接口。可尝试更新 c:geo 到 [最新版本](https://www.freemindworld.com/tmp/cgeo-release_latest.apk)。
