@@ -46,33 +46,4 @@
 在正式提交藏宝申请前，建议你参考以下资源：
 
 *   [如何藏一个新的藏宝点](https://www.geocaching.com/help/index.php?pg=kb.book&id=19)：Geocaching.com 官方提供的详细分步教程。
-*   [台湾地区的藏宝指南](https://gcwiki.atlassian.net/wiki/spaces/GEO/pages/528413/Taiwan)：虽然主要针对台湾地区，但其对藏点类型选择、环境考量、描述撰写等方面的规范和经验，对大陆藏宝者也有很好的参考价值。
-
-
-
-<!-- 
-如果你已经发现了一些藏宝点，并且对 Geocaching 有了初步了解，又或者你附近根本就没有藏宝点可供探索（这在玩家稀少的国内很正常），那么你可以尝试自己创建一个新的藏宝点。
-
-按照 [Geocaching.com](https://www.geocaching.com/play/hide) 的官方建议，玩家在尝试藏宝之前，最好先找到至少 10 个藏点，以便充分理解游戏规则、藏点设计技巧以及如何维护藏点的长期可玩性。这样你才能对游戏有足够的了解，知道如何藏得有趣且符合规则。不过在国内，由于藏点数量有限，我们建议新玩家可以先找到 3 个左右的藏点，对游戏有基本了解后，就可以尝试自己藏一个。**只有更多人参与藏宝，Geocaching 在国内才能真正发展起来，形成良性循环**。
-
-也就是说，官方建议是有经验了再藏宝。
-
-藏宝是要维护的，不是放了就不管了。
-
-
-
-
-
-本页面内容正在完善中，您可先参考以下相关资源。
-
-当前中国大陆地区的审核志愿者为 Melos，她同时也是负责台湾地区藏宝点审核的志愿者。
-
-藏宝的提交入口：https://www.geocaching.com/play/hide
-
-## 相关资源
-
-- [如何隐藏一个新的藏宝点](https://www.geocaching.com/help/index.php?pg=kb.book&id=19)：Geocaching.com 官方详细教程
-- [Geocache 藏宝官方指南](https://www.geocaching.com/play/guidelines)
-- [台湾地区的藏宝指南](https://gcwiki.atlassian.net/wiki/spaces/GEO/pages/528413/Taiwan)：地区性的藏宝规范，可供参考
-
-> 提示：创建藏宝点前请务必仔细阅读相关指南，确保符合所有要求。如果有不符合的地方，可能会导致审核不通过。审核志愿者会告知您需要修改的内容。 -->
+*   [针对中国大陆地区的藏宝指导](./region-guidelines.md)：由负责审核中国大陆地区的审核志愿者 Melos 撰写的藏宝指导，也可视作对当地相关限制与要求的说明。

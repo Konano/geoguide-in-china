@@ -46,6 +46,7 @@ nav:
   - 创建你的第一个藏宝点:
     - hiding-a-cache/index.md
     - hiding-a-cache/simple-container.md
+    - hiding-a-cache/region-guidelines.md
   - glossary.md
   # - faq.md
 # extra_css:
