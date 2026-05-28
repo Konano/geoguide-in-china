@@ -38,11 +38,11 @@ Ingress 的机制决定了：没有符合标准的地标（POI），就没有 Po
 
 ### 线下聚会（Event）
 
-我们会在周六下午的 IFS 场地和周日的祖庙附近，分别举办两场 Geocaching Event，届时现场还会派发无料纪念品！
+我们会在周六下午和周日下午的祖庙附近，分别举办两场 Geocaching Event，届时现场还会派发无料纪念品！
 
 - 如果你已经注册了 Geocaching 账号，欢迎点击下方链接，在页面内提交一个 "Will attend"（准备参加）的 Log。
-    - **Day 1 (周六 IFS 现场)**：[GCBQB2C](https://coord.info/GCBQB2C)
-    - **Day 2 (周日 祖庙)**：[GCBFDAY](https://coord.info/GCBFDAY)
+    - **Day 1 (周六)**：[GCBQB2C](https://coord.info/GCBQB2C)
+    - **Day 2 (周日)**：[GCBFDAY](https://coord.info/GCBFDAY)
 - 如果你还没注册但很感兴趣，也非常欢迎直接来线下找我们玩！我们可以手把手帮你注册，并解答关于寻宝的各种疑问。
 
 ### 附加活动：MD 路线上的 "Dead Drop"
