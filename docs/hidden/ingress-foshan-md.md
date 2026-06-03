@@ -41,17 +41,15 @@ Ingress 的机制决定了：没有符合标准的地标（POI），就没有 Po
 我们会在周六下午和周日下午的祖庙附近，分别举办两场 Geocaching Event，届时现场还会派发无料纪念品！
 
 - 如果你已经注册了 Geocaching 账号，欢迎点击下方链接，在页面内提交一个 "Will attend"（准备参加）的 Log。
-    - **Day 1 (周六)**：[GCBQB2C](https://coord.info/GCBQB2C)
-    - **Day 2 (周日)**：[GCBFDAY](https://coord.info/GCBFDAY)
+    - **Day 1 (周六 兆祥公园)**：[GCBQB2C](https://coord.info/GCBQB2C)
+    - **Day 2 (周日 星巴克臻选-岭南天地店)**：[GCBFDAY](https://coord.info/GCBFDAY)
 - 如果你还没注册但很感兴趣，也非常欢迎直接来线下找我们玩！我们可以手把手帮你注册，并解答关于寻宝的各种疑问。
 
 ### 附加活动：MD 路线上的 "Dead Drop"
 
-除了常规的藏宝点，我们还准备了一个附加活动：届时我们会在 Mission Day 的路线附近藏一些特殊的 Cache，里面会放入一些 Ingress 相关的奖品。玩法类似于 Ingress XMA 期间常见的附加活动 "Dead Drop"。
+除了常规的藏宝点，我们还准备了一个附加活动：届时我们会在 Mission Day 的路线附近藏一些特殊的 Cache，玩法类似于 Ingress XMA 期间常见的附加活动 "Dead Drop"。找到 Cache 的 Agents 能有机会获得小礼品。
 
 不过，它和真正的 Dead Drop 有两点不同：一是 Dead Drop 通常只给照片线索，而 Cache 会直接提供精确的经纬度坐标；二是 Dead Drop 往往是被人拿走就没了，但 Cache **找到后必须原样放回**，让后面的玩家也能继续体验寻找与签名的乐趣。
-
-**这些特殊藏宝地的坐标将会在周日公布，敬请期待！**
 
 ## 30 分钟快速开始 & 寻宝基本礼仪
 
