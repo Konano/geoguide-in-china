@@ -1,5 +1,10 @@
 # c:geo 使用指南 { #cgeo-guide }
 
+## 下载安装 { #cgeo-download }
+
+- **国内地图版**：[下载 APK](https://geoguide.top/cgeo-cn.apk)（由群友制作，支持高德、腾讯和卫星图）
+- **原版**：访问 [c:geo 官网](https://www.cgeo.org/) 或下载 [APK 安装包](https://www.freemindworld.com/tmp/cgeo-release_latest.apk)
+
 ## 登录到 Geocaching.com { #cgeo-login }
 
 安装后打开 c:geo，将底部导航切换到 `首页 (Home)`。点击右上角的三个点，在下拉菜单中选择 `设置 (Settings)`。
@@ -20,7 +25,10 @@
 
 ## 选择地图源 { #cgeo-map-source }
 
-登录成功后，将底部导航切换到 `地图 (Map)`。点击右上角的「切换地图」的图标，在弹出的地图列表中选择 `OpenStreetMap.de`（如果有科学上网条件，也可以选择 `OpenStreetMap.org`）。
+登录成功后，将底部导航切换到 `地图 (Map)`。点击右上角的「切换地图」图标，在弹出的地图列表中选择地图源：
+
+- 国内地图版可选择高德、腾讯或卫星图
+- 原版建议选择 `OpenStreetMap.de`；如果有科学上网条件，也可以选择 `OpenStreetMap.org`
 
 ![选择地图源](./imgs/cgeo-map-1.jpg){ width="50%" }
 
